@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I am active listener and little introvert**
 
-- #Project1:** https://rachavarshith.github.io/1st-Website/ **
+- #Project1: (** https://rachavarshith.github.io/1st-Website/ **)
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
