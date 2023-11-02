@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rachavarshith](https://github.com/rachavarshith)
 
-- 💬 Ask me about **HTML,CSS, Bootstrap**
+- 💬 Ask me about **HTML,CSS,Bootstrap,Javascript**
 
 - 📫 How to reach me **varshithraccha@gmail.com**
 
