@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/@varshithraccha" target="blank"><img src="https://img.shields.io/twitter/follow/@varshithraccha?logo=twitter&style=for-the-badge" alt="@varshithraccha" /></a> </p>
 
-- 🔭 I’m currently working at **Emporia Agency as a Web Developer**
+- 🔭 I’m currently working at **Emporia Agency as a Web Developer Intern**
 
 - 🌱 I’m currently learning **WordPress & JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rachavarshith](https://github.com/rachavarshith)
 
-- 💬 Ask me about **HTML,CSS,Bootstrap,Javascript**
+- 💬 Ask me about **HTML5,CSS3,Bootstrap,Javascript**
 
 - 📫 How to reach me **varshithraccha@gmail.com**
 
