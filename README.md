@@ -25,6 +25,7 @@
 - #Project-3: (** https://rachavarshith.github.io/3rd-Website/ **)
 - #Project-4: (** https://rachavarshith.github.io/4th-Website/ **)
 - #Project-5: (** https://rachavarshith.github.io/5th-Website/ **)
+- #Project-6: (** https://rachavarshith.github.io/6thWebsite/ **)
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
